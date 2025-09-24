@@ -11,7 +11,9 @@ Atualmente estou trabalhando em dois projetos principais: um app de quiz no Kodu
 Estou aprendendo Front-End Web: HTML, CSS e JavaScript por meio de um curso em vídeo.
 
 Meus interesses incluem o desenvolvimento de aplicativos e sites interativos.
+
 ---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
