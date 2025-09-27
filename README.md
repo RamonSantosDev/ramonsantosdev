@@ -8,7 +8,7 @@ Tenho 29 anos e sou estudante de Análise e Desenvolvimento de Sistemas (EAD) pe
 
 Atualmente estou trabalhando em dois projetos principais: um app de quiz no Kodular usando blocos lógicos e um site pessoal para apresentar meus projetos e habilidades.
 
-Estou aprendendo Front-End Web: HTML, CSS e JavaScript por meio de um curso em vídeo.
+Estou aprendendo Front-End Web: HTML, CSS e JavaScript.
 
 Meus interesses incluem o desenvolvimento de aplicativos e sites interativos.
 
